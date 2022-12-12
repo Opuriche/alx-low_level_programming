@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - function to generate random number
  *
  * Result: Always 0 (Success)
  */
