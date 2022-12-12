@@ -23,7 +23,7 @@ int main(void)
 	}
 	else if (t == 0)
 	{
-		printf(" and is 0");
+		printf(" and is 0\n");
 	}
 	else if (t < 6 && t != 0)
 	{
