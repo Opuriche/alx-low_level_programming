@@ -5,7 +5,10 @@
 /**
  * main - function to generate random number
  *
- * Result: Always 0 (Success)
+ *Description: to classify numbers as positive, negative or zero
+ *
+ * Return: Always 0 (Success)
+ * Description : always return an integer
  */
 int main(void)
 {
