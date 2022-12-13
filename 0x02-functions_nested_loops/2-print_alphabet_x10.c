@@ -21,6 +21,6 @@ void print_alphabet_x10(void) /*function prints the alphabet in lower case*/
 			_putchar(ch);
 		}
 		i++;
-		print('\n');
+		_putchar('\n');
 	}
 }
