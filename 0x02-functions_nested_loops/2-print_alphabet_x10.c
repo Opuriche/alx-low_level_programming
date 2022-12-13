@@ -1,9 +1,7 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
- * Descriptrion: prints the alphabets in lower case 10 times
+ * Prints the alphabets ten times - Entry point
  *
  * Return: 0
  */
