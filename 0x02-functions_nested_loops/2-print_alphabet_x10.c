@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Descriptrion - prints the alphabets in lower case 10 times
+ * Descriptrion: prints the alphabets in lower case 10 times
  *
  * Return: 0
  */
