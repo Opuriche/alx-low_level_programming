@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * Prints alphabets gane - Entry point
+ * print_alphabet - Entry point
  * Description: function just prints the alphabets
  * Return: 0
  */
