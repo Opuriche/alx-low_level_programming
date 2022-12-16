@@ -21,10 +21,10 @@ void print_triangle(int size)
 					_putchar('#');
 				else
 					_putchar(' ');
+				start++;
 			}
-			start++;
+			start = 0;
+			_putchar('\n');
 		}
-		start = 0;
-		_putchar('\n');
 	}
 }
