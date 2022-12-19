@@ -1,0 +1,1 @@
+arraya and pointers
