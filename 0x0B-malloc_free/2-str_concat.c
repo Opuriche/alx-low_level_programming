@@ -12,7 +12,7 @@ int get_len(char *str)
 {
 	int i;
 
-	for (int i = 0; str[i] != '\0'; i++)
+	for (i = 0; str[i] != '\0'; i++)
 		;
 	return (i + 1);
 }
@@ -33,6 +33,7 @@ char *str_concat(char *s1, char *s2)
 		s1 = "";
 	if (s2 == NULL)
 		s2 = "";
+
 	s1_len = get_len(s1);
 	s2_len = get_len(s2);
 
@@ -40,6 +41,7 @@ char *str_concat(char *s1, char *s2)
 
 	if (ptr == NULL)
 		return (NULL);
+
 	for (i = 0; s1[i] != '\0'; i++)
 		ptr[i] = s1[i];
 	for (j = 0; s2[j] != '\0'; j++, i++)
