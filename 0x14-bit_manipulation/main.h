@@ -6,8 +6,6 @@
 #include <unistd.h>
 #include <fcntl.h>
 
-void error_exit(int exit_code, const char *format, ...);
-int main(int argc, char *argv[]);
 int _putchar(char c);
 unsigned int binary_to_uint(const char *b);
 void print_binary(unsigned long int n);
