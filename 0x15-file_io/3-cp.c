@@ -1,5 +1,5 @@
 #include "main.h"
-
+#define _GNU_SOURCE
 #define BUF_SIZE 1024
 
 /**
